@@ -1,0 +1,23 @@
+
+
+1. Initial Setup
+Get a fresh copy of Bootstrap 3 and HTML5 Boilerplate. Integrate these in a fresh directory. Make sure the Bootstrap build has LESS integrated with it. We'll be working on a 12 column fluid grid for this project.
+
+2. Separate Bootstraps LESS system
+Move the Bootstrap LESS build into it's own directory inside of the LESS directory. Create a file called main.less, and import bootstrap/bootstrap.less into this.
+
+BRAND INFO
+The main brand font used for this site is Monsterrat, available from Google Fonts. All body copy should be in an Arial/Helvetica/Sans-serif stack.
+
+Here are the colors used for links and many other components.
+@colorBrand: 			#ffb302; // Gold
+@colorAccent: 			#ff9d01; // Darker gold
+
+
+
+HEADER
+The header is now 60px tall. Find the variable for this, and implement it in your main.less file. The background gradient is from #333 to #000. The Jeep logo is available in the header-sprite.png file.
+
+FOOTER
+Gradient from #222 to #111. Border at the top is #444. Font size is 12px for links and disclaimers with headers that are white.
+

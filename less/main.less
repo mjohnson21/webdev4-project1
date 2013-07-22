@@ -1,0 +1,45 @@
+@import "bootstrap/bootstrap.less";
+
+
+
+@colorBrand: 			#ffb302; // Gold
+@colorAccent: 			#ff9d01; // Darker gold
+
+@colorPrimary: 			#000;
+@colorSecondary: 		#ACACAC;
+
+@linkColor:             @colorAccent;
+@linkColorHover:        darken(@linkColor, 15%);
+
+/* == Navbar Variables
+===================================================== */
+
+@navbarHeight: 60px;
+
+@navbarInverseBackground:                #000;
+@navbarInverseBackgroundHighlight:       #333;
+@navbarInverseBorder:                    #444;
+
+@navbarInverseText:                      @grayLight;
+@navbarInverseLinkColor:                 @grayLight;
+@navbarInverseLinkColorHover:            @white;
+@navbarInverseLinkColorActive:           @navbarInverseLinkColorHover;
+@navbarInverseLinkBackgroundHover:       transparent;
+@navbarInverseLinkBackgroundActive:      @navbarInverseBackground;
+
+@navbarInverseSearchBackground:          lighten(@navbarInverseBackground, 25%);
+@navbarInverseSearchBackgroundFocus:     @white;
+@navbarInverseSearchBorder:              @navbarInverseBackground;
+@navbarInverseSearchPlaceholderColor:    #ccc;
+
+@navbarInverseBrandColor:                @navbarInverseLinkColor;
+
+
+/* == Views and Components
+===================================================== */
+
+@import "components/header.less";
+@import "components/carousel.less";
+@import "components/footer.less";
+
+@import "views/home.less";
