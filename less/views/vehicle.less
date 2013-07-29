@@ -1,0 +1,106 @@
+/* =====================================================
+= vehicle.less
+======================================================== */
+
+#page-vehicle {
+	background-position: center @navbarHeight ;
+	background-repeat: no-repeat;
+	margin-top: @navbarHeight;
+	background-color: @grayDarker;
+
+
+	#vehicle_info {
+		max-width: 980px;
+		padding: 0 60px;
+		min-height: 425px;
+		margin: 0 auto;
+		color: @white;
+
+		h1 {
+			font-size: 44px;
+			font-weight: normal;
+			line-height: 1em;
+			text-shadow: 0 2px 5px rgba(0,0,0,.75);
+		}
+		h2 {
+			font-size: 18px;
+			text-transform: uppercase;
+			font-weight: normal;
+			text-shadow: 0 2px 5px rgba(0,0,0,.75);
+		}
+		.infoblock {
+			background: rgba(0,0,0,0.5);
+			padding: 15px;
+			margin-left: 0px;
+		}
+	}
+
+	#vehicle_wrap {
+		max-width: 980px;
+		background: @white;
+		border-radius: 9px 9px 0 0;
+		margin: 0 auto;
+
+		section {
+			padding: 15px 30px;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			-ms-box-sizing: border-box;
+			box-sizing: border-box;
+
+		}
+	}
+	/* == Awards
+	===================================================== */
+	.awards {
+		background: url(../img/wrangler/awards-background.jpg) no-repeat;
+		-webkit-background-size: cover;
+		background-size: cover;
+
+		.award-description {
+			text-align: center;
+			h3 {
+				margin: 0;
+			}
+		}
+
+	}
+	/* == Pricing
+	===================================================== */
+	.vehicle_pricing {
+		img {float: right;}
+	}
+	.vehicle-price {
+		h3, h2 {
+			margin: 6px auto;
+		}
+		h2 {
+			.lightHeading;
+			margin-top: .25em;
+			font-size: 36px;
+			height: 21px;
+			span {
+				font-family: @sansFontFamily;
+				font-size: 12px;
+				display: inline-block;
+				line-height: 1em;
+				margin: 0;
+			}
+		}
+		sup {
+			top: -.2em;
+		}
+		.disclaimer {
+			font-size: 12px;
+			color: @gray;
+			line-height: 1.25em;
+		}
+		img {
+			float: right;
+		}
+	}
+}
+
+.page-wrangler {
+	background-image: url(/img/wrangler/wrangler-main.jpg);
+}

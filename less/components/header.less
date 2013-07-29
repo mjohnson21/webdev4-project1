@@ -6,13 +6,17 @@
 		display: block;
 		position: absolute;
 		right: 0;
-		top: 0;
+		top: -10px;
 		height: 106px;
 		width: 86px;
 		background: url(../img/sprite_nav.png) no-repeat -382px -375px;
 		text-indent: -1400px;
+		&:hover {
+			top: 0;
+		}
 	}
 	.nav {
+		padding-left: 0;
 		>li>a {
 			border-left: #000 1px solid;
 			border-right: #000 1px solid;
@@ -24,8 +28,7 @@
 			&.active a,
 			a:hover,
 			a:active {
-				border-top: @colorBrand 4px solid;
-				padding-top: 16px;
+				.nav-active;
 			}
 		}
 	}
@@ -35,5 +38,14 @@
 	background-position: 491px -379px;
 	width: 84px;
 	text-indent: -80em;
+}
+
+.nav-active {
+	border-top: @colorBrand 4px solid;
+	padding-top: 16px;
+}
+#page-home #nav-home,
+#page-vehicle #nav-vehicle {
+	.nav-active;
 }
 

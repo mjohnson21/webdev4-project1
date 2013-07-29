@@ -1,5 +1,6 @@
 @import "bootstrap/bootstrap.less";
-
+@import url(http://fonts.googleapis.com/css?family=Lato:300);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
 @colorBrand: 			#ffb302; // Gold
@@ -11,6 +12,15 @@
 @linkColor:             @colorAccent;
 @linkColorHover:        darken(@linkColor, 15%);
 
+
+/* == Type Variables & mixins
+===================================================== */
+.lightHeading {
+	font-family: 'Lato', sans-serif;
+}
+
+
+
 /* == Navbar Variables
 ===================================================== */
 
@@ -18,7 +28,7 @@
 
 @navbarInverseBackground:                #000;
 @navbarInverseBackgroundHighlight:       #333;
-@navbarInverseBorder:                    #444;
+@navbarInverseBorder:                    #353535;
 
 @navbarInverseText:                      @grayLight;
 @navbarInverseLinkColor:                 @grayLight;
@@ -26,11 +36,6 @@
 @navbarInverseLinkColorActive:           @navbarInverseLinkColorHover;
 @navbarInverseLinkBackgroundHover:       transparent;
 @navbarInverseLinkBackgroundActive:      @navbarInverseBackground;
-
-@navbarInverseSearchBackground:          lighten(@navbarInverseBackground, 25%);
-@navbarInverseSearchBackgroundFocus:     @white;
-@navbarInverseSearchBorder:              @navbarInverseBackground;
-@navbarInverseSearchPlaceholderColor:    #ccc;
 
 @navbarInverseBrandColor:                @navbarInverseLinkColor;
 
@@ -43,3 +48,11 @@
 @import "components/footer.less";
 
 @import "views/home.less";
+@import "views/vehicle.less";
+
+
+
+
+.test {
+	background: rgba(255,0,0,0.5)
+}
