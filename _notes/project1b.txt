@@ -1,0 +1,76 @@
+=======================================
+PROJECT 1, PART B
+=======================================
+
+Using the assets given, we'll build out the first part of the vehicle page of Jeep.com. We'll focus on two sections. All images are provided in the /img directory.
+
+Don't forget to commit your work to GIT. Post this link to Google Plus, so that others can see and comment on your progress. Here are a few quick snippets for submitting your work.
+
+git add .
+git commit -m 'this is the message'
+git push -u origin master
+
+
+
+=======================================
+Additional Typeface - Lato (or similar)
+
+Montserrat is pretty chunky to be used for every headline. We need an alternate one for use in places where text should not be so heavy, such as large headlines. Lato from Google Fonts fits this well. Unless you find a typeface that fits better, bring this into the project.
+
+
+
+=======================================
+Main Vehicle Introduction (#vehicle-intro)
+
+This is the area at the top of the page that has the large hero image background, a headline (Adventure Fueled by The Power Within), and a text box with supplemental information.
+
+
+
+=======================================
+Vehicle Information (#vehicle-wrap)
+
+The main container for all supplemental information for the vehicle. It has a white background, rounded corners at the top (9px), and has a maximum width of 980px. Each separate piece of content within will be wrapped in a <section>.
+
+---------------------------------------
+Vehicle Pricing (#vehicle-pricing)
+
+Three separate bits of content (although two should probably share a class). Remember to use the grid system to determine the width of these items.
+
+<div class="vehicle-price">
+  <h3>MSRP Starting at</h3>
+  <h2><sup>$</sup>22,295</h2>
+  <p class="disclaimer">This is disclaimer information. It is fairly small</p>
+</div>
+
+---------------------------------------
+Vehicle Awards (#vehicle-awards)
+
+This small section has a background image, an award image, and some supplemental text.
+
+
+
+
+=======================================
+PROJECT 1, PART C
+=======================================
+
+For the third week of the project, we'll focus on the colorizer and limited edition sections.
+
+
+=======================================
+Colorizer (#vehicle-colorizer)
+
+Seems complicated, but it's simply a gallery with thumbnails that's been re-styled. The section itself has the background image (desert scene) and the vehicle information block on the left.
+
+Thumbnails are swatches for each color. The gallery itself fades between images on the right. In other words, the gallery does not take up the entire area.
+
+
+
+=======================================
+Limited Editions
+
+A three column section displaing images and links to three special edition vehicles.
+
+
+
+

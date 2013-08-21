@@ -36,6 +36,17 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/img\/wrangler\/colorizer\/rugged_brown_no_top.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/rugged_brown_no_top.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/rugged_brown_no_top.jpg",
+      "initialSize" : 59393,
+      "fileType" : 4096
+    },
     "\/less\/bootstrap\/modals.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/less\/bootstrap\/modals.less",
@@ -52,6 +63,17 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
+    },
+    "\/img\/wrangler\/colorizer\/commando_green_no_top.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/commando_green_no_top.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/commando_green_no_top.jpg",
+      "initialSize" : 62657,
+      "fileType" : 4096
     },
     "\/img\/home\/feature-2-bg.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -103,14 +125,14 @@
       "initialSize" : 278218,
       "fileType" : 4096
     },
-    "\/less\/bootstrap\/pager.less" : {
+    "\/less\/bootstrap\/utilities.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/less\/bootstrap\/pager.less",
-      "outputAbbreviatedPath" : "\/less\/css\/pager.css",
+      "inputAbbreviatedPath" : "\/less\/bootstrap\/utilities.less",
+      "outputAbbreviatedPath" : "\/less\/css\/utilities.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "strictImports" : 0,
       "ignoreWasSetByUser" : 0,
       "shouldRunBless" : 0,
@@ -171,14 +193,14 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/less\/bootstrap\/utilities.less" : {
+    "\/less\/bootstrap\/pager.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/less\/bootstrap\/utilities.less",
-      "outputAbbreviatedPath" : "\/less\/css\/utilities.css",
+      "inputAbbreviatedPath" : "\/less\/bootstrap\/pager.less",
+      "outputAbbreviatedPath" : "\/less\/css\/pager.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "strictImports" : 0,
       "ignoreWasSetByUser" : 0,
       "shouldRunBless" : 0,
@@ -205,6 +227,17 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/img\/wrangler\/colorizer\/black_no_top.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/black_no_top.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/black_no_top.jpg",
+      "initialSize" : 62314,
+      "fileType" : 4096
+    },
     "\/less\/bootstrap\/labels-badges.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/less\/bootstrap\/labels-badges.less",
@@ -222,22 +255,16 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/less\/bootstrap\/media.less" : {
-      "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/less\/bootstrap\/media.less",
-      "outputAbbreviatedPath" : "\/less\/css\/media.css",
-      "outputPathIsSetByUser" : 0,
-      "strictUnits" : 0,
-      "relativeURLS" : 0,
-      "ignore" : 0,
-      "strictImports" : 0,
+    "\/js\/vendor\/bootstrap-min.js" : {
       "ignoreWasSetByUser" : 0,
-      "shouldRunBless" : 0,
+      "ignore" : 0,
       "hidden" : 0,
-      "strictMath" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-min.js",
       "outputStyle" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/vendor\/bootstrap-min-min.js",
+      "fileType" : 64
     },
     "\/less\/bootstrap\/component-animations.less" : {
       "ieCompatibility" : 1,
@@ -276,6 +303,23 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/less\/bootstrap\/media.less" : {
+      "ieCompatibility" : 1,
+      "inputAbbreviatedPath" : "\/less\/bootstrap\/media.less",
+      "outputAbbreviatedPath" : "\/less\/css\/media.css",
+      "outputPathIsSetByUser" : 0,
+      "strictUnits" : 0,
+      "relativeURLS" : 0,
+      "ignore" : 0,
+      "strictImports" : 0,
+      "ignoreWasSetByUser" : 0,
+      "shouldRunBless" : 0,
+      "hidden" : 0,
+      "strictMath" : 0,
+      "outputStyle" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
+    },
     "\/less\/bootstrap\/alerts.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/less\/bootstrap\/alerts.less",
@@ -292,6 +336,17 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
+    },
+    "\/js\/vendor.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/vendor.js",
+      "outputStyle" : 0,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/vendor-min.js",
+      "fileType" : 64
     },
     "\/less\/bootstrap\/variables.less" : {
       "ieCompatibility" : 1,
@@ -310,6 +365,28 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/img\/wrangler\/colorizer\/rock_lobster_no_top.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/rock_lobster_no_top.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/rock_lobster_no_top.jpg",
+      "initialSize" : 66345,
+      "fileType" : 4096
+    },
+    "\/img\/wrangler\/colorizer\/true_blue_no_top.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/true_blue_no_top.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/true_blue_no_top.jpg",
+      "initialSize" : 60804,
+      "fileType" : 4096
+    },
     "\/js\/vendor\/holder.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -321,10 +398,41 @@
       "outputAbbreviatedPath" : "\/js\/vendor\/holder-min.js",
       "fileType" : 64
     },
-    "\/less\/bootstrap\/carousel.less" : {
+    "\/js\/vendor\/jquery-1.10.1.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/vendor\/jquery-1.10.1.min.js",
+      "outputStyle" : 0,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-1.10.1.min-min.js",
+      "fileType" : 64
+    },
+    "\/includes\/navbar.shtml" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/includes\/navbar.shtml",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/img\/wrangler\/special-editions\/rubicon.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/special-editions\/rubicon.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/special-editions\/rubicon.png",
+      "initialSize" : 15748,
+      "fileType" : 8192
+    },
+    "\/less\/views\/home.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/less\/bootstrap\/carousel.less",
-      "outputAbbreviatedPath" : "\/less\/css\/carousel.css",
+      "inputAbbreviatedPath" : "\/less\/views\/home.less",
+      "outputAbbreviatedPath" : "\/less\/css\/home.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
@@ -338,30 +446,10 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/includes\/navbar.shtml" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/includes\/navbar.shtml",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/js\/vendor\/jquery-1.10.1.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/vendor\/jquery-1.10.1.min.js",
-      "outputStyle" : 0,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/vendor\/jquery-1.10.1.min-min.js",
-      "fileType" : 64
-    },
-    "\/less\/bootstrap\/sprites.less" : {
+    "\/less\/bootstrap\/carousel.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/less\/bootstrap\/sprites.less",
-      "outputAbbreviatedPath" : "\/less\/css\/sprites.css",
+      "inputAbbreviatedPath" : "\/less\/bootstrap\/carousel.less",
+      "outputAbbreviatedPath" : "\/less\/css\/carousel.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
@@ -386,10 +474,30 @@
       "initialSize" : 12799,
       "fileType" : 8192
     },
-    "\/less\/views\/home.less" : {
+    "\/navbar.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/navbar.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/js\/vendor\/bootstrap-collapse.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-collapse.js",
+      "outputStyle" : 0,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/vendor\/bootstrap-collapse-min.js",
+      "fileType" : 64
+    },
+    "\/less\/bootstrap\/sprites.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/less\/views\/home.less",
-      "outputAbbreviatedPath" : "\/less\/css\/home.css",
+      "inputAbbreviatedPath" : "\/less\/bootstrap\/sprites.less",
+      "outputAbbreviatedPath" : "\/less\/css\/sprites.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
@@ -403,20 +511,9 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/js\/vendor\/bootstrap-collapse.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-collapse.js",
-      "outputStyle" : 0,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/vendor\/bootstrap-collapse-min.js",
-      "fileType" : 64
-    },
     "\/js\/vendor\/bootstrap-transition.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-transition.js",
@@ -435,8 +532,8 @@
       "fileType" : 16
     },
     "\/js\/vendor\/bootstrap-typeahead.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-typeahead.js",
@@ -480,8 +577,8 @@
       "debugStyle" : 0
     },
     "\/js\/vendor\/bootstrap-tab.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-tab.js",
@@ -559,8 +656,8 @@
       "debugStyle" : 0
     },
     "\/js\/vendor\/bootstrap-dropdown.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-dropdown.js",
@@ -617,6 +714,17 @@
       "initialSize" : 84500,
       "fileType" : 4096
     },
+    "\/img\/wrangler\/colorizer\/bright_white_no_top.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/bright_white_no_top.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/bright_white_no_top.jpg",
+      "initialSize" : 62634,
+      "fileType" : 4096
+    },
     "\/less\/bootstrap\/tests\/navbar-static-top.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -635,10 +743,10 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/less\/bootstrap\/responsive-utilities.less" : {
+    "\/less\/bootstrap\/accordion.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/less\/bootstrap\/responsive-utilities.less",
-      "outputAbbreviatedPath" : "\/less\/css\/responsive-utilities.css",
+      "inputAbbreviatedPath" : "\/less\/bootstrap\/accordion.less",
+      "outputAbbreviatedPath" : "\/less\/css\/accordion.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
@@ -652,10 +760,10 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/less\/bootstrap\/accordion.less" : {
+    "\/less\/bootstrap\/responsive-utilities.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/less\/bootstrap\/accordion.less",
-      "outputAbbreviatedPath" : "\/less\/css\/accordion.css",
+      "inputAbbreviatedPath" : "\/less\/bootstrap\/responsive-utilities.less",
+      "outputAbbreviatedPath" : "\/less\/css\/responsive-utilities.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
@@ -697,31 +805,14 @@
       "initialSize" : 8777,
       "fileType" : 8192
     },
-    "\/index.html" : {
+    "\/less\/bootstrap\/tests\/navbar-fixed-top.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/index.html",
+      "inputAbbreviatedPath" : "\/less\/bootstrap\/tests\/navbar-fixed-top.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/less\/bootstrap\/code.less" : {
-      "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/less\/bootstrap\/code.less",
-      "outputAbbreviatedPath" : "\/less\/css\/code.css",
-      "outputPathIsSetByUser" : 0,
-      "strictUnits" : 0,
-      "relativeURLS" : 0,
-      "ignore" : 0,
-      "strictImports" : 0,
-      "ignoreWasSetByUser" : 0,
-      "shouldRunBless" : 0,
-      "hidden" : 0,
-      "strictMath" : 0,
-      "outputStyle" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
     },
     "\/less\/bootstrap\/grid.less" : {
       "ieCompatibility" : 1,
@@ -731,6 +822,23 @@
       "strictUnits" : 0,
       "relativeURLS" : 0,
       "ignore" : 1,
+      "strictImports" : 0,
+      "ignoreWasSetByUser" : 0,
+      "shouldRunBless" : 0,
+      "hidden" : 0,
+      "strictMath" : 0,
+      "outputStyle" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
+    },
+    "\/less\/bootstrap\/code.less" : {
+      "ieCompatibility" : 1,
+      "inputAbbreviatedPath" : "\/less\/bootstrap\/code.less",
+      "outputAbbreviatedPath" : "\/less\/css\/code.css",
+      "outputPathIsSetByUser" : 0,
+      "strictUnits" : 0,
+      "relativeURLS" : 0,
+      "ignore" : 0,
       "strictImports" : 0,
       "ignoreWasSetByUser" : 0,
       "shouldRunBless" : 0,
@@ -769,25 +877,45 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/less\/bootstrap\/tests\/navbar-fixed-top.html" : {
+    "\/index2.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/less\/bootstrap\/tests\/navbar-fixed-top.html",
+      "inputAbbreviatedPath" : "\/index2.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/img\/wrangler\/colorizer\/dune_no_top.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/dune_no_top.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/dune_no_top.jpg",
+      "initialSize" : 64452,
+      "fileType" : 4096
     },
     "\/js\/vendor\/bootstrap.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
+      "outputPathIsSetByUser" : 1,
       "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap.js",
       "outputStyle" : 0,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/vendor\/bootstrap-min.js",
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/js\/vendor.js",
       "fileType" : 64
+    },
+    "\/index.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/index.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/img\/sprite_nav.png" : {
       "ignoreWasSetByUser" : 0,
@@ -834,6 +962,15 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/includes\/navbar.php" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/includes\/navbar.php",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/wrangler.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -877,6 +1014,17 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/js\/vendor\/bootstrap-alert.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-alert.js",
+      "outputStyle" : 0,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/vendor\/bootstrap-alert-min.js",
+      "fileType" : 64
+    },
     "\/less\/components\/footer.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/less\/components\/footer.less",
@@ -894,20 +1042,9 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/js\/vendor\/bootstrap-alert.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-alert.js",
-      "outputStyle" : 0,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/vendor\/bootstrap-alert-min.js",
-      "fileType" : 64
-    },
     "\/js\/vendor\/bootstrap-scrollspy.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-scrollspy.js",
@@ -915,6 +1052,17 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/js\/vendor\/bootstrap-scrollspy-min.js",
       "fileType" : 64
+    },
+    "\/img\/wrangler\/special-editions\/moab.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/special-editions\/moab.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/special-editions\/moab.png",
+      "initialSize" : 19011,
+      "fileType" : 8192
     },
     "\/less\/views\/vehicle.less" : {
       "ieCompatibility" : 1,
@@ -934,8 +1082,8 @@
       "debugStyle" : 0
     },
     "\/js\/vendor\/bootstrap-carousel.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-carousel.js",
@@ -944,26 +1092,26 @@
       "outputAbbreviatedPath" : "\/js\/vendor\/bootstrap-carousel-min.js",
       "fileType" : 64
     },
-    "\/js\/vendor\/bootstrap-button.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-button.js",
-      "outputStyle" : 0,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/js\/vendor\/bootstrap-button-min.js",
-      "fileType" : 64
-    },
     "\/js\/vendor\/bootstrap-popover.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-popover.js",
       "outputStyle" : 0,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/js\/vendor\/bootstrap-popover-min.js",
+      "fileType" : 64
+    },
+    "\/js\/vendor\/bootstrap-button.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-button.js",
+      "outputStyle" : 0,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/vendor\/bootstrap-button-min.js",
       "fileType" : 64
     },
     "\/less\/bootstrap\/responsive-768px-979px.less" : {
@@ -1046,15 +1194,6 @@
       "initialSize" : 161178,
       "fileType" : 8192
     },
-    "\/includes\/footer.shtml" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/includes\/footer.shtml",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/css\/main.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1063,6 +1202,15 @@
       "inputAbbreviatedPath" : "\/css\/main.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/includes\/footer.shtml" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/includes\/footer.shtml",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/less\/bootstrap\/bootstrap.less" : {
       "ieCompatibility" : 1,
@@ -1099,8 +1247,8 @@
       "debugStyle" : 0
     },
     "\/js\/vendor\/bootstrap-modal.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-modal.js",
@@ -1180,9 +1328,53 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/js\/vendor\/bootstrap-affix.js" : {
+    "\/js\/vendor\/min\/bootstrap-affix.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/vendor\/min\/bootstrap-affix.min.js",
+      "outputStyle" : 0,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/js\/vendor\/min\/bootstrap-affix.min-min.js",
+      "fileType" : 64
+    },
+    "\/img\/wrangler\/colorizer\/billet_silver_no_top.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/billet_silver_no_top.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/billet_silver_no_top.jpg",
+      "initialSize" : 62291,
+      "fileType" : 4096
+    },
+    "\/img\/wrangler\/special-editions\/freedom.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/special-editions\/freedom.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/special-editions\/freedom.png",
+      "initialSize" : 18524,
+      "fileType" : 8192
+    },
+    "\/img\/wrangler\/colorizer\/sprite_colorizer.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/sprite_colorizer.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/img\/wrangler\/colorizer\/sprite_colorizer.png",
+      "initialSize" : 6474,
+      "fileType" : 8192
+    },
+    "\/js\/vendor\/bootstrap-affix.js" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-affix.js",
@@ -1220,8 +1412,8 @@
       "debugStyle" : 0
     },
     "\/js\/vendor\/bootstrap-tooltip.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/js\/vendor\/bootstrap-tooltip.js",

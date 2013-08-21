@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m 'this is the message'
+git remote add origin https://github.com/mjohnson21/webdev4-project1.git
+git push -u origin master

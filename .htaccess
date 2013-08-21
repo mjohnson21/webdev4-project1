@@ -1,0 +1,6 @@
+AddType image/svg+xml svg
+
+AddType text/html .shtml
+AddHandler server-parsed .html
+AddHandler server-parsed .shtml
+Options Indexes FollowSymLinks Includes
